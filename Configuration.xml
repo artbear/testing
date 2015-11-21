@@ -36,7 +36,6 @@
 				</v8:item>
 			</Synonym>
 			<Comment/>
-			<NamePrefix/>
 			<DefaultRunMode>OrdinaryApplication</DefaultRunMode>
 			<UsePurposes>
 				<v8:Value xsi:type="app:ApplicationUsePurpose">PersonalComputer</v8:Value>
@@ -82,14 +81,6 @@
 					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">Telephony</v8:Key>
 					<v8:Value xsi:type="xs:boolean">false</v8:Value>
 				</v8:pair>
-				<v8:pair>
-					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">PushNotification</v8:Key>
-					<v8:Value xsi:type="xs:boolean">false</v8:Value>
-				</v8:pair>
-				<v8:pair>
-					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">LocalNotification</v8:Key>
-					<v8:Value xsi:type="xs:boolean">false</v8:Value>
-				</v8:pair>
 			</RequiredMobileApplicationPermissions>
 			<DefaultInterface/>
 			<DefaultStyle/>
@@ -104,7 +95,7 @@
 			<ModalityUseMode>Use</ModalityUseMode>
 			<SynchronousExtensionAndAddInCallUseMode>Use</SynchronousExtensionAndAddInCallUseMode>
 			<InterfaceCompatibilityMode>TaxiEnableVersion8_2</InterfaceCompatibilityMode>
-			<CompatibilityMode>Version8_3_5</CompatibilityMode>
+			<CompatibilityMode>DontUse</CompatibilityMode>
 			<DefaultConstantsForm/>
 		</Properties>
 		<ChildObjects>
@@ -131,7 +122,6 @@
 			<DataProcessor>xddMediatorУдалить</DataProcessor>
 			<DataProcessor>xddTestTemplatesУдалить</DataProcessor>
 			<DataProcessor>Тест_xddTestTemplatesУдалить</DataProcessor>
-			<DataProcessor>xddDataDumper</DataProcessor>
 			<InformationRegister>РегистрСведений1</InformationRegister>
 			<AccumulationRegister>РегистрНакопления1</AccumulationRegister>
 			<ChartOfCharacteristicTypes>ПланВидовХарактеристик1</ChartOfCharacteristicTypes>
