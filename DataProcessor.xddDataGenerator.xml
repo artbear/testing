@@ -21,13 +21,52 @@
 			</Synonym>
 			<Comment>НЕ ПЕРЕНОСИТЬ В КОНФИГУРАЦИЮ ЗАКАЗЧИКА</Comment>
 			<UseStandardCommands>false</UseStandardCommands>
-			<DefaultForm/>
+			<DefaultForm>DataProcessor.xddDataGenerator.Form.ФормаОбычная</DefaultForm>
 			<AuxiliaryForm/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<ExtendedPresentation/>
 			<Explanation/>
 		</Properties>
 		<ChildObjects>
+			<Attribute uuid="595d503f-892b-46c7-95c0-6c6aeb4001ab">
+				<Properties>
+					<Name>МакетНаФормеСтрокой</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Макет на форме строкой</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>0</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+					<PasswordMode>false</PasswordMode>
+					<Format/>
+					<EditFormat/>
+					<ToolTip/>
+					<MarkNegatives>false</MarkNegatives>
+					<Mask/>
+					<MultiLine>false</MultiLine>
+					<ExtendedEdit>false</ExtendedEdit>
+					<MinValue xsi:nil="true"/>
+					<MaxValue xsi:nil="true"/>
+					<FillChecking>DontCheck</FillChecking>
+					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
+					<ChoiceParameterLinks/>
+					<ChoiceParameters/>
+					<QuickChoice>Auto</QuickChoice>
+					<CreateOnInput>Auto</CreateOnInput>
+					<ChoiceForm/>
+					<LinkByType/>
+					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+				</Properties>
+			</Attribute>
+			<Form>ФормаОбычная</Form>
 			<Template>ОбразецДанных</Template>
 			<Template>ЗаготовкаМакета</Template>
 			<Template>ЗаготовкаМакетаСГруппировками</Template>
