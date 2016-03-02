@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0">
+	<DataProcessor uuid="f7e4d789-6e89-4dea-84f6-4bb458e31664">
+		<InternalInfo>
+			<xr:GeneratedType name="DataProcessorObject.Тест_xddDataGenerator" category="Object">
+				<xr:TypeId>84c14e8e-7789-46fb-b7fa-26600aa857c2</xr:TypeId>
+				<xr:ValueId>106a12fb-a126-45d1-9bbe-1c8d8314d8bf</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DataProcessorManager.Тест_xddDataGenerator" category="Manager">
+				<xr:TypeId>d2497eb5-ea4f-4b46-a81a-5df06ef73159</xr:TypeId>
+				<xr:ValueId>5684faba-636c-4f78-848c-60b5cd51db34</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>Тест_xddDataGenerator</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Тест Генератор данных</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<UseStandardCommands>true</UseStandardCommands>
+			<DefaultForm/>
+			<AuxiliaryForm/>
+			<IncludeHelpInContents>false</IncludeHelpInContents>
+			<ExtendedPresentation/>
+			<Explanation/>
+		</Properties>
+		<ChildObjects>
+			<Template>ПростойСправочник</Template>
+			<Template>ГруппаСправочника</Template>
+			<Template>ПростойДокумент</Template>
+			<Template>ДокументСТабличнойЧастью</Template>
+			<Template>ПростаяТаблицаЗначений</Template>
+			<Template>НезависимыйРегистрСведений</Template>
+			<Template>РегистрНакопления</Template>
+			<Template>ПоискПеречисления</Template>
+			<Template>ЭлементПВХ</Template>
+			<Template>ФормулаВЯчейке</Template>
+			<Template>Задача</Template>
+			<Template>БизнесПроцесс</Template>
+			<Template>Структура</Template>
+			<Template>Константы</Template>
+			<Template>Группировки</Template>
+		</ChildObjects>
+	</DataProcessor>
+</MetaDataObject>
