@@ -64,6 +64,9 @@
 			</Attribute>
 			<Form>Форма</Form>
 			<Form>ФормаОбычная</Form>
+			<Template>ОбразецДанных</Template>
+			<Template>ЗаготовкаМакета</Template>
+			<Template>ЗаготовкаМакетаСГруппировками</Template>
 		</ChildObjects>
 	</DataProcessor>
 </MetaDataObject>
