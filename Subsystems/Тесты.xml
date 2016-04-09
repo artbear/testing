@@ -15,9 +15,9 @@
 			<Explanation/>
 			<Picture/>
 			<Content>
-				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.Тест_xddDataGenerator</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.Тест_xddDecorator</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.Тест_xddШТ_ПроверкаРеквизитногоСоставаДокументаСПроведением</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">f7e4d789-6e89-4dea-84f6-4bb458e31664</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">e1100399-000e-4dbe-ba19-fa940c877a8c</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">e5e0cb3a-cffc-40fa-bee2-b30424890524</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">01c123e5-6e5a-4e11-94f2-b8d585282f5c</xr:Item>
 			</Content>
 		</Properties>

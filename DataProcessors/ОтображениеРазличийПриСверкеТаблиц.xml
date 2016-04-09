@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0">
+	<DataProcessor uuid="3eb28f76-de4c-48e6-a38e-54445c953135">
+		<InternalInfo>
+			<xr:GeneratedType name="DataProcessorObject.ОтображениеРазличийПриСверкеТаблиц" category="Object">
+				<xr:TypeId>f295f646-49ab-4b1e-95a5-e1ab9def1850</xr:TypeId>
+				<xr:ValueId>5d4d246f-f3b2-4310-876d-f53ac027a264</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DataProcessorManager.ОтображениеРазличийПриСверкеТаблиц" category="Manager">
+				<xr:TypeId>d3373ad0-9b4f-4a3d-99e2-59fbb9e994ea</xr:TypeId>
+				<xr:ValueId>7eb73730-e0b9-40e4-85d1-75a053da7924</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ОтображениеРазличийПриСверкеТаблиц</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Отображение различий при сверке таблиц</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<UseStandardCommands>false</UseStandardCommands>
+			<DefaultForm>DataProcessor.ОтображениеРазличийПриСверкеТаблиц.Form.Форма</DefaultForm>
+			<AuxiliaryForm>DataProcessor.ОтображениеРазличийПриСверкеТаблиц.Form.ФормаОбычная</AuxiliaryForm>
+			<IncludeHelpInContents>false</IncludeHelpInContents>
+			<ExtendedPresentation/>
+			<Explanation/>
+		</Properties>
+		<ChildObjects>
+			<Form>Форма</Form>
+			<Form>ФормаОбычная</Form>
+		</ChildObjects>
+	</DataProcessor>
+</MetaDataObject>

@@ -123,21 +123,16 @@
 			<Catalog>Контрагенты</Catalog>
 			<Document>Документ1</Document>
 			<Enum>Перечисление1</Enum>
-			<DataProcessor>xddEntryPoint</DataProcessor>
-			<DataProcessor>xddTestRunner</DataProcessor>
-			<DataProcessor>xddDecorator</DataProcessor>
-			<DataProcessor>xddQweryConsole</DataProcessor>
-			<DataProcessor>xddDataGenerator</DataProcessor>
-			<DataProcessor>xddMonitor</DataProcessor>
-			<DataProcessor>xddШТ_ПроверкаРеквизитногоСоставаДокументаСПроведением</DataProcessor>
-			<DataProcessor>Тест_xddDataGenerator</DataProcessor>
-			<DataProcessor>Тест_xddDecorator</DataProcessor>
-			<DataProcessor>Тест_xddШТ_ПроверкаРеквизитногоСоставаДокументаСПроведением</DataProcessor>
-			<DataProcessor>Сервис</DataProcessor>
-			<DataProcessor>ОткрытиеФормИзТестов</DataProcessor>
-			<DataProcessor>xddDataDumper</DataProcessor>
 			<DataProcessor>xddDataDumper_new</DataProcessor>
 			<DataProcessor>xddDataLoader_new</DataProcessor>
+			<DataProcessor>ОтображениеРазличийПриСверкеТаблиц</DataProcessor>
+			<DataProcessor>ПомощникиТестирования</DataProcessor>
+			<DataProcessor>ШаблонЮнитТеста</DataProcessor>
+			<DataProcessor>Метаданные</DataProcessor>
+			<DataProcessor>УниверсальныйЖурналОбъектов</DataProcessor>
+			<DataProcessor>КонсольЗапросов</DataProcessor>
+			<DataProcessor>ЗаполнениеТаблицыИзМакета</DataProcessor>
+			<DataProcessor>УниверсальныйРедакторРеквизитов</DataProcessor>
 			<InformationRegister>РегистрСведений1</InformationRegister>
 			<AccumulationRegister>РегистрНакопления1</AccumulationRegister>
 			<ChartOfCharacteristicTypes>ПланВидовХарактеристик1</ChartOfCharacteristicTypes>
